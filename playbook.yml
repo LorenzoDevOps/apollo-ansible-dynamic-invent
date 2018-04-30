@@ -8,3 +8,5 @@
     command: /usr/bin/updatedb
     async: 300
     poll: 0
+  - name: Ping
+    ping:
